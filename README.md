@@ -1,0 +1,2 @@
+# PostalMailer
+Makes mailing lists.
